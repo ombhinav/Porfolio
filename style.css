@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.first_section{
+    /* width: 100px; */
+    height : 430px;
+    background-color : #8e0c0c;
+}
+.second_section{
+    height: 430px;
+    background-color: black;
+}
+.third_section{
+    height: 350px;
+    background-color: rgb(202, 157, 20);
+}
+img{
+    width: 200px;
+    height: 160px;
+    margin-top: 150px;
+    margin-left: 70px;
+}
